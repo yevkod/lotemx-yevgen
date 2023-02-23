@@ -1,0 +1,83 @@
+.container {
+    display: block;
+    height: 80px;
+    width: 550px;
+    margin: 0 auto;
+    padding-top: 15px;
+}
+
+.users__container {
+    position: relative;
+    display: inline-block;
+    width: 600px;
+    height: 30px;
+}
+
+.users_block {
+    position: relative;
+    height: 35px;
+    width: 250px;
+    display: inline-block;
+}
+
+.users {
+    width: 20px;
+    height: 50px;
+    position: relative;
+    font-size: 25px;
+}
+
+.input {
+    height: 28px;
+    width: 280px;
+    display: inline;
+    position: relative;
+}
+
+.head {
+    position: relative;
+    height: 35px;
+    width: 600px;
+    display: inline-block;
+    background-color: #F0F0F0;
+    border-radius: 5px;
+    margin-top: 35px;
+}
+
+.username {
+    height: 30px;
+    width: 75px;
+    display: inline-block;
+    position: relative;
+    font-size: 13px;
+    color: #B8B8B8;
+    font-weight: 500;
+    margin: 8px 10px;
+}
+
+.header {
+    display: inline-flex;
+    position: relative;
+    text-align: center;
+    font-size: 13px;
+    color: #B8B8B8;
+    font-weight: 500;
+    left: 220px
+}
+
+.input__place {
+    display: inline;
+    height: 30px;
+    width: 325px;
+    border-radius: 15px;
+    border: none;
+    background-color: #F0F0F0;
+    outline: none;
+}
+
+.property {
+    margin-right: 20px;
+}
+
+
+
